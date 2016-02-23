@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Court Counter</string>
+    <string name="action_settings">Settings</string>
+    <string name="implicit">Share</string>
+    <string name="teamA">Team A</string>
+    <string name="replace">Replace with your own action</string>
+</resources>
